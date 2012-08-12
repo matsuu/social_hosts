@@ -5,3 +5,18 @@
 
 # see http://blog.tokumaru.org/2012/08/t-point-toolbar-is-harmful.html
 127.0.0.1       log.opt.ne.jp
+
+# evil sites
+127.0.0.1       a.root-servers.net
+127.0.0.1       b.root-servers.net
+127.0.0.1       c.root-servers.net
+127.0.0.1       d.root-servers.net
+127.0.0.1       e.root-servers.net
+127.0.0.1       f.root-servers.net
+127.0.0.1       g.root-servers.net
+127.0.0.1       h.root-servers.net
+127.0.0.1       i.root-servers.net
+127.0.0.1       j.root-servers.net
+127.0.0.1       k.root-servers.net
+127.0.0.1       l.root-servers.net
+127.0.0.1       m.root-servers.net
